@@ -1,0 +1,3 @@
+# Building Images
+
+Content for building_images.md...
