@@ -1,3 +1,0 @@
-# Harbor Offline Registry
-
-Content for harbor_offline_registry.md...

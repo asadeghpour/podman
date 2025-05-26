@@ -1,3 +1,0 @@
-# Running Non Root
-
-Content for running_non_root.md...

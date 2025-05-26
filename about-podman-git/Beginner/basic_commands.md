@@ -1,3 +1,0 @@
-# Basic Commands
-
-Content for basic_commands.md...

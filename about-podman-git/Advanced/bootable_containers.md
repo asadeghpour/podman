@@ -1,3 +1,0 @@
-# Bootable Containers
-
-Content for bootable_containers.md...

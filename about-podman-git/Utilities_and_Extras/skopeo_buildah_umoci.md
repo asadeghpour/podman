@@ -1,3 +1,0 @@
-# Skopeo Buildah Umoci
-
-Content for skopeo_buildah_umoci.md...

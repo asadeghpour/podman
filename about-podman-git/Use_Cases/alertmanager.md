@@ -1,3 +1,0 @@
-# Alertmanager
-
-Content for alertmanager.md...

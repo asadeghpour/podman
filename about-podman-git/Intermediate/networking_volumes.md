@@ -1,3 +1,0 @@
-# Networking Volumes
-
-Content for networking_volumes.md...

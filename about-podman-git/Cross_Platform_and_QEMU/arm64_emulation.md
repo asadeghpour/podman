@@ -1,3 +1,0 @@
-# Arm64 Emulation
-
-Content for arm64_emulation.md...

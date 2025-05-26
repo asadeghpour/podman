@@ -1,3 +1,0 @@
-# Installing Podman
-
-Content for installing_podman.md...

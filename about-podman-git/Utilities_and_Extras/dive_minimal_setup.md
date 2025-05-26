@@ -1,3 +1,0 @@
-# Dive Minimal Setup
-
-Content for dive_minimal_setup.md...

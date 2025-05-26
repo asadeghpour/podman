@@ -1,3 +1,0 @@
-# Blackbox Exporter
-
-Content for blackbox_exporter.md...

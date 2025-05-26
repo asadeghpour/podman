@@ -1,3 +1,0 @@
-# Qcow2 From Container
-
-Content for qcow2_from_container.md...
